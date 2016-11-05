@@ -1,4 +1,4 @@
 # hello-world
 test
 
-hello,i'm a student from china,i am starting to learning the programming.
+hello,I'm a student from china,I am starting to learning the programming.
